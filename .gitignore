@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Others
+vsc-extension-quickstart.md
+.vscode/*
+node_modules/*
+out/*
