@@ -1,20 +1,20 @@
-# Teverse Lua
+# Teverse
 
-Teverse Lua syntax highlighting and autocomplete for VS Code. Via an extension.
+This repo contains open source components produced for Teverse. 
 
-# Changelog
+Contains the codebase for the visual studio extension pairing. 
 
-All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+# Contributing to Teverse
 
-## [Unreleased]
-- Automatically update syntax highlighting with api dump. (Work in Progress)
-- Add data types etc. to autocopmlete.
+Teverse is a platform that enables developers with a simple, unified interface to create game and learn about game development. 
 
-## [0.0.1] - Beta Version Added (2020-3-1)
-### Added
-- Changelog.
-- Syntax Highlighting.
-- Enum autocopmlete.
+As a platform, we pride ourselves on giving developers more control without little to no strings attached. As such, we allow contribution to be made by our community in order better our own platform. 
+
+Please see the [Contributing Guide](/TEVERSE-CONTRIB.md) and [View Style Guide](/TEVERSE-STYLE.md) for more details.
+
+For those that have contributed, we thank you for your time and service to make this platform powerful.
+
+# Copyright
+
+Copyright (c) 2020 teverse.com
