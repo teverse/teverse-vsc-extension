@@ -3,6 +3,7 @@
 	"publisher": "teverse",
 	"displayName": "Teverse",
 	"description": "An extension that pairs Visual Studio Code with Teverse.",
+	"repository": "https://github.com/teverse/teverse-vsc-extension",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.44.0"
