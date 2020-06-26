@@ -1,5 +1,6 @@
 {
 	"name": "teverse",
+	"publisher": "teverse",
 	"displayName": "Teverse",
 	"description": "An extension that pairs Visual Studio Code with Teverse.",
 	"version": "0.0.1",
