@@ -1,0 +1,19 @@
+# Used to control the publishing of Teverse's extension on VSC Marketplace
+
+name: VSC Publish
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: npm install
+      - uses: lannonbr/vsce-action@2.0.0
+        with: 
+          args: "publish -p $KEY"
+        env: 
+          KEY: ${{ secrets.pat }}
