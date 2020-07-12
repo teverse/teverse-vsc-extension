@@ -1,4 +1,4 @@
-# Teverse
+# Teverse Extension for Visual Studio Code
 
 This repo contains open source components produced for Teverse. 
 
